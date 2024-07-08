@@ -30,7 +30,7 @@ in arch run this command first:
 
 <details></br>
 <summary><b><code>Install Gnome Desktop</code></b></summary>
-<p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/xfce.jpg"</p>
+<p align="center"><img src="https://github.com/NOLEPERS2/Arch-Gnome-Termux/blob/e932738370d654208ac371d92e8f9f6a6fea4685/Screenshot_20240708-110912.png"</p>
 
 ```
 pacman -S gnome-shell gnome-terminal gnome-shell-extensions gnome-tweaks
