@@ -45,5 +45,5 @@ pacman -S gnome-shell gnome-terminal gnome-shell-extensions gnome-tweaks wget
 
 in termux run this command :
 ```
-wget https://github.com/NOLEPERS2/Arch-Gnome-Termux/blob/main/gnome_arch.sh ; chmod +x gnome_arch.sh ; ./gnome_arch.sh
+wget https://raw.githubusercontent.com/NOLEPERS2/Arch-Gnome-Termux/main/gnome_arch.sh ; chmod +x gnome_arch.sh ; ./gnome_arch.sh
 ```
